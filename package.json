@@ -1,0 +1,11 @@
+{
+  "name": "medotcom.v5",
+  "version": "0.1.0",
+  "description": "Personal website for E Thompson",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ethomp-dev",
+  "license": "ISC"
+}
